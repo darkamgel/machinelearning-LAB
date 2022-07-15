@@ -1,8 +1,8 @@
 lab seesion of Machine learning 
 
 week 1 :
-    Practical Assignment 1:
-    Getting started with Python Machine Learning Introduction to NumPy, SciPy, and Matplotlib Installing with Python
+        Practical Assignment 1:
+        Getting started with Python Machine Learning Introduction to NumPy, SciPy, and Matplotlib Installing with Python
     Chewing data efficiently with NumPy and intelligently with SciPy
     Learning NumPy, SciPy
     First application of machine learning
