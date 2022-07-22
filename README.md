@@ -18,4 +18,4 @@ week 2 :
          - The Iris dataset
          - Building more complex classifier
          - A more complex dataset and a more complex classifier classifying with sckit-learn
-        - Binary and multiclass classification
+         - Binary and multiclass classification
