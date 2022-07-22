@@ -14,6 +14,7 @@ week 1 :
         
 week 2 :
 
+         Practical Assignment 2:
          - Classifying with Real world Examples
          - The Iris dataset
          - Building more complex classifier
