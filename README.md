@@ -20,3 +20,11 @@ week 2 :
          - Building more complex classifier
          - A more complex dataset and a more complex classifier classifying with sckit-learn
          - Binary and multiclass classification
+    
+    
+week 3 :
+        
+        Practical Assignment 3 :
+        - Clustering : Finding related posts Measuring the  relatedness of posts 
+        - Preprocessing : similarity measured as a similar number of common words 
+        - Clustering : Solving our initial challenge Tweaking the parameters
