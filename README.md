@@ -28,3 +28,12 @@ week 3 :
         - Clustering : Finding related posts Measuring the  relatedness of posts 
         - Preprocessing : similarity measured as a similar number of common words 
         - Clustering : Solving our initial challenge Tweaking the parameters
+        
+week 4 :
+
+          Practical Assignment 4 :
+        - Topic Modeling 
+        - Latent Dirichlet allocation Comparing documents by
+        - topics Choosing the number of topics
+
+
