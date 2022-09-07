@@ -43,6 +43,30 @@ week 5 :
        - Sketching our roadmap Learning to classify classy
        - answers Fetching the data Creating our first classifier
        - Deciding how to improve Using logistic regression
+       
+       
+week 6 :
+
+          Practical Assignment 6 :
+       - Artificial Neural Networks 
+       - Building a Perceptron based classifier Constructing a single layer neural network 
+       - Constructing a multilayer neural network Building a vector quantizer 
+       - Analyzing sequential data using recurrent neural networks 
+       - Visualizing characters in an Optical Character 
+       - Recognition Building an Optical Character 
+       - Recognition Engine 
+       - Recurrent Neural Network 
+       - Long Short-Term Memory (LSTM) 
+       - Transfer Learning
+       
+       
+week 7 :
+
+          Practical Assignment 7 :
+       - Reinforcement Learning 
+       - Creating an environment 
+       - Building a learning agent 
+       - Example code for q-learning
         
 
 
