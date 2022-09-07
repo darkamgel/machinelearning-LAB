@@ -35,5 +35,14 @@ week 4 :
         - Topic Modeling 
         - Latent Dirichlet allocation Comparing documents by
         - topics Choosing the number of topics
+        
+week 5 :
+
+          Practical Assignment 5 :
+       - Classification – Detecting Poor Answers
+       - Sketching our roadmap Learning to classify classy
+       - answers Fetching the data Creating our first classifier
+       - Deciding how to improve Using logistic regression
+        
 
 
