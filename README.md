@@ -67,6 +67,20 @@ week 7 :
        - Creating an environment 
        - Building a learning agent 
        - Example code for q-learning
+       
+week 8 :
+
+           Practical Assignment 8 :
+        -  Deep Learning with Convolution Neural Networks 
+        - Building a perceptron-based linear regressor 
+        - Building an image classifier using a single layer neural network 
+        - Building an image classifier using a Convolution Neural Network 
+        - CNN on CIFAR10 Dataset 
+        - CNN on MNIST Dataset 
+        - Visualization of Layers
+       
+       
+
         
 
 
